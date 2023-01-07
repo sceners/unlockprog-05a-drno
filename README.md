@@ -1,5 +1,5 @@
 # unlockprog-05a-drno
-The LockProg v0.5a unpacker.
+The LockProg v0.5a unpacker by Delirium Tremens Group (DTG).
 
 https://defacto2.net/f/aa23b10
 
